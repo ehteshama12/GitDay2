@@ -7,5 +7,13 @@ public class DemoTest {
 		System.out.println("Test");
 		
 	}
+	
+	//Test123
+	
+	public static void add(int a, int b) {
+		
+		System.out.println(a+b);
+		
+	}
 
 }
