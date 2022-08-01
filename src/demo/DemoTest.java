@@ -15,5 +15,11 @@ public class DemoTest {
 		System.out.println(a+b);
 		
 	}
-
+	
+	//Test456
+	
+	public static void subtract(int a, int b) {
+		
+		System.out.println(a-b);	
+	}
 }
